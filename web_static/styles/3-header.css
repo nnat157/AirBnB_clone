@@ -6,11 +6,11 @@ header {
 	border-bottom: 1px solid #CCCCCC;
 }
 
-#header_logo {
+#hbnb_logo {
 	height: 100%;
 	width: 142px;
 
-	background-image: url("../images/logo.png");
+	background-image: url("../images/hbnb_logo.png");
 	background-repeat: no-repeat;
 	background-position: center;
 
